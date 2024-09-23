@@ -15,7 +15,9 @@ The retail business operates across multiple regions and product categories but 
 ## **Tools and Technologies**
 - **Excel**: Data cleaning, preparation, and pivot table analysis.
 - **SQL**: For deeper insights and queries to identify key metrics.
-- **Power BI**: Visualization and dashboard creation to monitor KPIs.
+- **Power BI**: Visualization and dashboard creation to monitor KPIs.![Dashboard]( https://github.com/ShreyanshiJaiswal/Revenue-and-Profit-Maximization/blob/main/Revenue%20and%20profit%20max.%20dashboard.png)
+
+
 
 ## **Data Description**
 - **Dataset**: The superstore dataset contains 50,000 records, encompassing key information such as product category, sales, profit, shipping, and customer details across multiple years.
